@@ -1,4 +1,5 @@
 # notortalamasi
+```
 import java.util.Scanner;
 
 
@@ -36,4 +37,5 @@ public class NotOrtalamasi {
 
     }
 }
+```
 [Patika.dev](https://app.patika.dev/iremr)
